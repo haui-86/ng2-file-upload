@@ -36,3 +36,5 @@ src/**/*.js
 src/**/*.map
 scripts/**/*.js
 scripts/**/*.map
+/nbproject/private/
+nbproject
